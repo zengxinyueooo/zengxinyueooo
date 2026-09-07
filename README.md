@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zengxinyueooo/zengxinyueooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jessamine 🌼
 
-Here are some ideas to get you started:
+### Backend & AI Agent Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building things I actually want to explore & use.*
+
+<br/>
+
+🦐 OpenClaw farmer · 🧩 Multica explorer · ⌨️ Claude Code & Codex daily driver
+
+<br/>
+
+`Agent` · `Memory` · `Context` · `MCP` · `Eval`
+
+</div>
+
+---
+
+## 🌱 About Me
+
+- 🧠 Exploring **AI Agents, Memory & Context Engineering**
+- 🦐 Building with **OpenClaw & Multica**
+- ⌨️ Daily coding with **Claude Code & Codex**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <b>Core</b> · Java / Spring Boot / PostgreSQL / Redis
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>AI</b> · Agent / Skill / Memory / Context
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Daily</b> · OpenClaw / Multica / Claude Code / Codex
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Vibe</b> · Vue / TypeScript / Python
+</p>
