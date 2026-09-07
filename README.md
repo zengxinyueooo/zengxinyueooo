@@ -12,7 +12,7 @@
 
 <br/>
 
-`Agent` · `Memory` · `Context` · `MCP` · `Eval`
+`Agent` · `Memory` · `Context` · `Skill` 
 
 </div>
 
